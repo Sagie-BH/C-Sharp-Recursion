@@ -1,0 +1,6 @@
+C:\Users\Sagie\source\repos\Recursion\RecEx1\bin\Debug\RecEx1.exe.config
+C:\Users\Sagie\source\repos\Recursion\RecEx1\bin\Debug\RecEx1.exe
+C:\Users\Sagie\source\repos\Recursion\RecEx1\bin\Debug\RecEx1.pdb
+C:\Users\Sagie\source\repos\Recursion\RecEx1\obj\Debug\RecEx1.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\Recursion\RecEx1\obj\Debug\RecEx1.exe
+C:\Users\Sagie\source\repos\Recursion\RecEx1\obj\Debug\RecEx1.pdb

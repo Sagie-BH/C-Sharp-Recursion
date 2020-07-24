@@ -1,0 +1,11 @@
+C:\Users\Sagie\source\repos\Recursion\RecEx3\bin\Debug\netcoreapp3.1\RecEx3.exe
+C:\Users\Sagie\source\repos\Recursion\RecEx3\bin\Debug\netcoreapp3.1\RecEx3.deps.json
+C:\Users\Sagie\source\repos\Recursion\RecEx3\bin\Debug\netcoreapp3.1\RecEx3.runtimeconfig.json
+C:\Users\Sagie\source\repos\Recursion\RecEx3\bin\Debug\netcoreapp3.1\RecEx3.runtimeconfig.dev.json
+C:\Users\Sagie\source\repos\Recursion\RecEx3\bin\Debug\netcoreapp3.1\RecEx3.dll
+C:\Users\Sagie\source\repos\Recursion\RecEx3\bin\Debug\netcoreapp3.1\RecEx3.pdb
+C:\Users\Sagie\source\repos\Recursion\RecEx3\obj\Debug\netcoreapp3.1\RecEx3.csprojAssemblyReference.cache
+C:\Users\Sagie\source\repos\Recursion\RecEx3\obj\Debug\netcoreapp3.1\RecEx3.AssemblyInfoInputs.cache
+C:\Users\Sagie\source\repos\Recursion\RecEx3\obj\Debug\netcoreapp3.1\RecEx3.AssemblyInfo.cs
+C:\Users\Sagie\source\repos\Recursion\RecEx3\obj\Debug\netcoreapp3.1\RecEx3.dll
+C:\Users\Sagie\source\repos\Recursion\RecEx3\obj\Debug\netcoreapp3.1\RecEx3.pdb
